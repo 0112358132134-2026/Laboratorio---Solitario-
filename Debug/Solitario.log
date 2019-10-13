@@ -1,0 +1,7 @@
+﻿  Solitario.cpp
+C:\Users\Pablo\Desktop\Solitario\Solitario.cpp(1,1) : warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\Pablo\Desktop\Solitario\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+C:\Users\Pablo\Desktop\Solitario\Solitario.cpp(1,1) : warning C4651: Se especificó '/D__CLR_VER=40703460' para el encabezado precompilado pero no para la compilación actual
+C:\Users\Pablo\Desktop\Solitario\Solitario.cpp(13,12) : warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Solitario.vcxproj -> C:\Users\Pablo\Desktop\Solitario\Debug\Solitario.exe
